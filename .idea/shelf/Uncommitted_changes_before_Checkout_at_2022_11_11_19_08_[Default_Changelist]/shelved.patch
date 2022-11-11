@@ -1,0 +1,90 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"645b92a5-06ed-4e5b-b6b0-1bc49c6c9286\" name=\"Default Changelist\" comment=\"Merge remote-tracking branch 'origin/test' into test\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"SONARLINT_PRECOMMIT_ANALYSIS\" value=\"true\" />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task id=\"LOCAL-00001\" summary=\"keep the same\">\r\n      <created>1668163431500</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668163431500</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Merge remote-tracking branch 'origin/test' into test\">\r\n      <created>1668163496509</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668163496509</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Merge remote-tracking branch 'origin/test' into test\">\r\n      <created>1668163629586</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668163629586</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"upload history\" />\r\n    <MESSAGE value=\"keep the same\" />\r\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/test' into test\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Merge remote-tracking branch 'origin/test' into test\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4a2aece1b6c8f55b9d2da7bc92ded175c6f4f6ad)
++++ b/.idea/workspace.xml	(date 1668164913225)
+@@ -1,62 +1,38 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="645b92a5-06ed-4e5b-b6b0-1bc49c6c9286" name="Default Changelist" comment="Merge remote-tracking branch 'origin/test' into test" />
++    <list default="true" id="0fcc9278-84d8-465a-b784-f65c236f322d" name="Default Changelist" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="test" />
++      </map>
++    </option>
+   </component>
++  <component name="ProjectId" id="2HOn6IHxMe9AaQvZXK22I00vMyW" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
+   <component name="PropertiesComponent">
+-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
++    <property name="nodejs_package_manager_path" value="npm" />
+   </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+-    <task id="LOCAL-00001" summary="keep the same">
+-      <created>1668163431500</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1668163431500</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/test' into test">
+-      <created>1668163496509</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1668163496509</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/test' into test">
+-      <created>1668163629586</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1668163629586</updated>
+-    </task>
+-    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
+   <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State />
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+     <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="upload history" />
+-    <MESSAGE value="keep the same" />
+-    <MESSAGE value="Merge remote-tracking branch 'origin/test' into test" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/test' into test" />
+-  </component>
+ </project>
+\ No newline at end of file

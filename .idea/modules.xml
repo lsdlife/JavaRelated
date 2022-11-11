@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Base/Base.iml" filepath="$PROJECT_DIR$/../Base/Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Base/Base.iml" filepath="$PROJECT_DIR$/Base/Base.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaBase.iml" filepath="$PROJECT_DIR$/.idea/JavaBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/junit_reflect/junit_reflect.iml" filepath="$PROJECT_DIR$/junit_reflect/junit_reflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_json/test_json.iml" filepath="$PROJECT_DIR$/test_json/test_json.iml" />

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b58afa45-90e5-4211-815a-29e731b23543" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_json/src/main/java/com/dao/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_json/src/main/java/com/dao/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_json/src/test/java/com/dao/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_logback/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_logback/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_logback/lib/slf4j-api-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_logback/src/com/dao/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_logback/src/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/lib/dom4j-2.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/lib/jaxen-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/src/contact.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/src/contact2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/Readme.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JavaSoft\Maven\respository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.6.3" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="D:\JavaSoft\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="2HOKDLAwNRUockHCK8Jw9p1UTZX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Base" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.25827813" />
+    <property name="project.structure.side.proportion" value="0.11731845" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\xml\lib" />
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\movie_buy\lib" />
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\test_logback\lib" />
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\movie_buy" />
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\test_logback" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\Base\src\com" />
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\Base\src\com\stream" />
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\Base\src\com\string" />
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\Base\src\com\wrapper_classes" />
+      <recent name="D:\JavaSoft\JavaProjects\JavaBase\Base" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dao" />
+      <recent name="com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestCompDemo">
+    <configuration name="TestCompDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.array.TestCompDemo" />
+      <module name="Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCompDemo" />
+        <item itemvalue="Application.TestAbstractClasses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b58afa45-90e5-4211-815a-29e731b23543" name="Default Changelist" comment="" />
+      <created>1668150568561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668150568561</updated>
+      <workItem from="1668150569805" duration="4488000" />
+      <workItem from="1668155363139" duration="486000" />
+      <workItem from="1668155861829" duration="1186000" />
+      <workItem from="1668157076297" duration="703000" />
+      <workItem from="1668157794713" duration="1178000" />
+      <workItem from="1668159046693" duration="56000" />
+      <workItem from="1668159845836" duration="173000" />
+      <workItem from="1668160030015" duration="75000" />
+      <workItem from="1668161976593" duration="72000" />
+      <workItem from="1668162061103" duration="164000" />
+      <workItem from="1668162245959" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../Base" />
+    </ignored-roots>
+  </component>
+</project>

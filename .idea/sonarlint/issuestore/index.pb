@@ -1,0 +1,55 @@
+
+Q
+!Base/src/com/serlizable/data1.txt,6\1\61f30f5f8569c72d7fc413dc78445759691f6195
+V
+&Base/src/com/files/print_stream/ps.txt,1\4\14ea8a110fdd942117a61ba2de8fa5a54346d1e3
+T
+$Base/src/com/files/buffer/test01.txt,e\5\e5b9bad58493d2a15c34725fdcfe3f3b6717d1d7
+P
+ Base/src/com/files/file/data.txt,5\1\51cdad54cc4e8fad5933b32da49908439ece3449
+R
+"Base/src/com/files/file/data02.txt,7\0\70fa6aa582e66557d993813f0ef57c009c9af7cd
+W
+'Base/src/com/files/print_stream/log.txt,4\b\4b3e35bcc3d79e0b6e95d938050f9348822f8b76
+T
+$Base/src/com/files/buffer/test02.txt,a\3\a35b7fa3507ede86563c4885e9171cf8ac6e4e07
+T
+$Base/src/com/files/buffer/test03.txt,a\e\ae0c718e770189d147d06677e3f61ad73e756af3
+P
+ Base/src/com/files/io/test01.txt,e\6\e6d1be8c21aa46554bf155ef013a8d6e03efb420
+R
+"Base/src/com/files/file/data03.txt,3\f\3f6b25dd97e4c64555cc30efa0604482a90ec5b5
+P
+ Base/src/com/files/io/test02.txt,6\0\6029ae52ee4d217b19e70ade49de70e0ad9eed73
+M
+Base/src/com/files/io/out.txt,f\5\f568e2bdebc2116d52d1cdabc5930f17bd0b8464
+P
+ Base/src/com/files/io/test03.txt,1\1\11e1c488ebbc96b5a47bcfe414e529a8599ee70b
+W
+'Base/.idea/src/com/serlizable/data1.txt,6\5\65b32355f1e9f1bb62e5d20c1b248b7b2d5cf23e
+S
+#Base/.idea/src/com/files/io/out.txt,a\3\a326555a020943dc230e77edd0108b51350619b6
+V
+&Base/.idea/src/com/files/io/test01.txt,8\c\8cdcb8810f811530469b166141088941a0e40f2b
+V
+&Base/.idea/src/com/files/io/test02.txt,e\7\e78200fb84b8e3b104d4d5e687fd5bc280c80c85
+V
+&Base/.idea/src/com/files/io/test03.txt,f\7\f79a5dbc423191fdf6a484d0d972aa8553ebad0e
+V
+&Base/.idea/src/com/files/file/data.txt,f\7\f778edd8a98979a3f9e3214d178147ec6d8903d9
+X
+(Base/.idea/src/com/files/file/data02.txt,3\6\36b61cfa02b47bf84ec13179bdf79ef3c97435f4
+X
+(Base/.idea/src/com/files/file/data03.txt,5\a\5a5fbc327e480081e61915826a660dd2fbece4b3
+Z
+*Base/.idea/src/com/files/buffer/test01.txt,f\0\f0bd247ebb87dc0bae5eb70e480db06d948ec8f6
+Z
+*Base/.idea/src/com/files/buffer/test02.txt,3\9\39d80dacb6431247b2af6906551a3c697cd2f70c
+Z
+*Base/.idea/src/com/files/buffer/test03.txt,c\1\c17a2abe85ed7db98937e0a4824242f62c210178
+]
+-Base/.idea/src/com/files/print_stream/log.txt,a\7\a7dfe4af6a374a2063a03ed6108a5a148e776d92
+\
+,Base/.idea/src/com/files/print_stream/ps.txt,0\1\0114fff57aa21b551d150d92542304063dfa43aa
+f
+6Base/.idea/src/com/files/print_stream/users.properties,4\e\4e240bf157d7778818d10c3007d40595533d1b13

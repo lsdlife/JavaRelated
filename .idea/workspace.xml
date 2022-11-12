@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="645b92a5-06ed-4e5b-b6b0-1bc49c6c9286" name="Default Changelist" comment="update wrong files" />
+    <list default="true" id="645b92a5-06ed-4e5b-b6b0-1bc49c6c9286" name="Default Changelist" comment="upload">
+      <change afterPath="$PROJECT_DIR$/Base/.idea/src/com/abstract_classes/AbstractCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/TestAbstractClasses.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/src/com/decorator/InputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/xml/src/com/decorator/InputStream.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,12 +48,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../war" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.08866995" />
     <property name="project.structure.side.proportion" value="0.28700364" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -75,8 +81,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Dom4jTets2.parseToList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dom4j.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dom4j" />
+      <option name="MAIN_CLASS_NAME" value="com.dom4j.Dom4jTets2" />
+      <option name="METHOD_NAME" value="parseToList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Dom4jTets2.parseToList" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lsd\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="keep the same">
       <created>1668163431500</created>
@@ -117,6 +147,20 @@
       <workItem from="1668169926518" duration="212000" />
       <workItem from="1668170150671" duration="290000" />
       <workItem from="1668251777332" duration="7016000" />
+      <workItem from="1668259968684" duration="17000" />
+      <workItem from="1668282026229" duration="278000" />
+      <workItem from="1668598342238" duration="442000" />
+      <workItem from="1668598797286" duration="212000" />
+      <workItem from="1670332371969" duration="9000" />
+      <workItem from="1670332389630" duration="11000" />
+      <workItem from="1670654476670" duration="524000" />
+      <workItem from="1670655015290" duration="107000" />
+      <workItem from="1670834018869" duration="6000" />
+      <workItem from="1670836128523" duration="167000" />
+      <workItem from="1670836404269" duration="39000" />
+      <workItem from="1670836489196" duration="51000" />
+      <workItem from="1670836712921" duration="38000" />
+      <workItem from="1672710321619" duration="363000" />
     </task>
     <task id="LOCAL-00004" summary="add base">
       <created>1668169094424</created>
@@ -146,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668254591528</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="upload">
+      <created>1668259492152</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668259492152</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

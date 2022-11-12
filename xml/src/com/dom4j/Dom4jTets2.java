@@ -21,7 +21,6 @@ public class Dom4jTets2 {
         Document document =
                 saxReader.read(Dom4jTets2.class.getResourceAsStream("/contact.xml"));
 
-
         //4.拿根元素
         Element root = document.getRootElement();
 
@@ -37,22 +36,16 @@ public class Dom4jTets2 {
             Contact contact = new Contact();
             contact.setId(Integer.valueOf(contactEle.attributeValue("id")));
             contact.setVip(Boolean.valueOf(contactEle.attributeValue("vip")));
-
             contact.setName(contactEle.elementTextTrim("name"));
             contact.setGender(contactEle.elementTextTrim("gender").charAt(0));
             contact.setEmail(contactEle.elementTextTrim("email"));
 
             //9.把联系人对象数据加入List集合
             contacts.add(contact);
-
         }
-
-
         //10.遍历List集合
         for (Contact contact : contacts) {
             System.out.println(contact);
         }
-
     }
-
 }

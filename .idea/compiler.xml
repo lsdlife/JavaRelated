@@ -4,5 +4,13 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Base" target="8" />
+      <module name="JavaBase" target="8" />
+      <module name="junit_reflect" target="8" />
+      <module name="test_json" target="8" />
+      <module name="test_logback" target="8" />
+      <module name="xml" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -8,7 +8,6 @@ import java.io.*;
  */
 public class BufferReadDemo01 {
     public static void main(String[] args) {
-
         try (
                 //1.创建一个字符输入流管道与源文件接通
                 Reader fr = new FileReader("FileDemo\\src\\com\\Buffer\\test03.txt");
@@ -26,10 +25,8 @@ public class BufferReadDemo01 {
             while ((line = br.readLine()) != null) {
                 System.out.println(br.readLine());
             }
-
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
-
 }

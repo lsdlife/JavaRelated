@@ -1,7 +1,7 @@
 package com.stream;
 
 public class Employee {
-    private  String name;
+    private String name;
     private String sex;
     private int salary;
     private int bonus;
@@ -10,8 +10,6 @@ public class Employee {
     public Employee() {
     }
 
-
-
     public Employee(String name, String sex, int salary, int bonus, String chufa) {
         this.name = name;
         this.sex = sex;
@@ -19,10 +17,6 @@ public class Employee {
         this.bonus = bonus;
         this.chufa = chufa;
     }
-
-
-
-
 
     public String getName() {
         return name;
@@ -63,7 +57,6 @@ public class Employee {
     public void setChufa(String chufa) {
         this.chufa = chufa;
     }
-
 
     @Override
     public String toString() {

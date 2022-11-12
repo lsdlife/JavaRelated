@@ -13,8 +13,6 @@ public class Movie {
         this.name = name;
     }
 
-
-
     public String getActor() {
         return actor;
     }

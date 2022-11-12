@@ -19,16 +19,10 @@ public class GenericDemo {
         ArrayList<Dog> dog = new ArrayList<>();
         dog.add(new Dog());
         //go(dog);
-
     }
-
     //ArrayList<Cars>和ArrayList<BENZ>，ArrayList<BWM>是三个不同的集合类
-
-
     public static void go(ArrayList<? extends Car> car) {   //上下限
-
     }
-
 }
 
 class Dog {

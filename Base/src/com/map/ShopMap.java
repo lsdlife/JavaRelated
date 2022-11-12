@@ -6,6 +6,6 @@ import java.util.Map;
 
 public class ShopMap {
     //店铺名称，商品橱柜
-    Map<String, List<Article> > ShopMap=new HashMap<>();
+    Map<String, List<Article>> ShopMap = new HashMap<>();
 }
  

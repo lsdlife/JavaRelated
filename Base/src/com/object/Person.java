@@ -26,8 +26,8 @@ public class Person {
     }
 
     @Override
-    public String toString(){
-       return ("name:"+this.name+"age:"+this.age);
+    public String toString() {
+        return ("name:" + this.name + "age:" + this.age);
     }
     /**
      * public static boolean equals(Object a,Object b){

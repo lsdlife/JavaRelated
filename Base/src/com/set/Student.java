@@ -6,7 +6,7 @@ public class Student {
     private String name;
     private int age;
 
-    public Student(){
+    public Student() {
 
     }
 
@@ -39,10 +39,8 @@ public class Student {
                 '}';
     }
 
-
     //学生类要重写hashCode()和equals方法
     //重写来更改哈希值的计算方法
-
 
     @Override
     public boolean equals(Object o) {
@@ -56,6 +54,4 @@ public class Student {
     public int hashCode() {
         return Objects.hash(name, age);
     }
-
-
 }

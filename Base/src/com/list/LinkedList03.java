@@ -5,7 +5,7 @@ import java.util.LinkedList;
 public class LinkedList03 {
     public static void main(String[] args) {
         //栈
-        LinkedList<String> stack=new LinkedList<>();
+        LinkedList<String> stack = new LinkedList<>();
         //入栈
         stack.addFirst("子弹1");  //加入到表头,可以用push
         stack.addFirst("子弹2");
@@ -17,7 +17,7 @@ public class LinkedList03 {
         System.out.println(stack);
 
         //队列
-        LinkedList <String> queue=new LinkedList<>();
+        LinkedList<String> queue = new LinkedList<>();
         //入队
         queue.addLast("第1个人");      //尾插法
         queue.addLast("第2个人");
@@ -27,6 +27,5 @@ public class LinkedList03 {
         //出队
         queue.removeFirst();
         System.out.println(queue);
-
     }
 }

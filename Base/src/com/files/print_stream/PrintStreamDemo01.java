@@ -1,7 +1,5 @@
 package com.files.print_stream;
 
-import java.io.FileOutputStream;
-import java.io.PrintStream;
 import java.io.PrintWriter;
 
 /**
@@ -10,6 +8,7 @@ import java.io.PrintWriter;
  * PrintStream支持写字节数据
  * PrintWriter支持写字符数据
  */
+
 public class PrintStreamDemo01 {
     public static void main(String[] args) throws Exception {
         //1.创建一个打印流对象
@@ -17,14 +16,11 @@ public class PrintStreamDemo01 {
 
         //true只能加在原始流管道
         // PrintStream ps=new PrintStream("FileDemo\\src\\com\\PrintStream\\ps.txt");
-        PrintWriter ps=new PrintWriter("FileDemo\\src\\com\\PrintStream\\ps.txt");
-
+        PrintWriter ps = new PrintWriter("FileDemo\\src\\com\\PrintStream\\ps.txt");
         ps.println(91);
         ps.println(-1);
         ps.println("打印中文正常");
         ps.println(true);
-
         ps.close();
-
     }
 }

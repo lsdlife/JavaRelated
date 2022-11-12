@@ -6,8 +6,8 @@ import java.util.List;
 
 public class StreamDemo1 {
     public static void main(String[] args) {
-        List<String> names=new ArrayList<>();
-        Collections.addAll(names,"张三丰","张无忌","赵敏","周芷若","张强");
+        List<String> names = new ArrayList<>();
+        Collections.addAll(names, "张三丰", "张无忌", "赵敏", "周芷若", "张强");
         System.out.println(names);
 /*
         System.out.println("--------------");
@@ -29,7 +29,6 @@ public class StreamDemo1 {
         System.out.println(zhang3);
 */
         //使用stream流
-        names.stream().filter(s->s.startsWith("张")).filter(s->s.length()==3).forEach(s-> System.out.println(s));
-
+        names.stream().filter(s -> s.startsWith("张")).filter(s -> s.length() == 3).forEach(s -> System.out.println(s));
     }
 }

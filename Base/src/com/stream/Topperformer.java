@@ -1,11 +1,12 @@
 package com.stream;
 
-//优秀员工对象
+/**
+ * 优秀员工对象
+ */
 
 public class Topperformer {
-    private  String name;
-    private  int money;
-
+    private String name;
+    private int money;
     public Topperformer() {
     }
 

@@ -1,4 +1,5 @@
 package com.string;
+
 /**
  * 认识StringBuffer
  * 1.StringBuffer()构造一个空的字符串缓冲区，并且初始化为16个字符的容量
@@ -8,13 +9,10 @@ package com.string;
  */
 public class StringBufferDemo01 {
     public static void main(String[] args) {
-
         // 定义一个空的字符串缓冲区，含有16个字符的容量
         StringBuffer str1 = new StringBuffer();
-
         // 定义一个含有10个字符容量的字符串缓冲区
         StringBuffer str2 = new StringBuffer(10);
-
         // 定义一个含有(16+4)的字符串缓冲区，"青春无悔"为4个字符
         StringBuffer str3 = new StringBuffer("青春无悔");
         /*
@@ -33,6 +31,5 @@ public class StringBufferDemo01 {
         buffer.append(str);
         // 输出：Hello,World!
         System.out.println(buffer.substring(0));
-
     }
 }
